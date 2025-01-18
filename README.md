@@ -29,12 +29,13 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ## Project Structure
 ```
-|-- walmart_clean_data/           # Cleaned data after transformations
+|-- walmart_raw_data/             # Original  data before transformations
 |-- sql_queries/                  # SQL scripts for analysis and queries
 |-- notebooks/                    # Jupyter notebooks for Python analysis
 |-- README.md                     # Project documentation
 |-- requirements.txt              # List of required Python libraries
 |-- business_problems.pdf         # Document outlining the business problems
+|-- walmart_clean_data/           # Cleaned data after transformations
 |-- project_architecture.png      # Data pipeline or data flow diagram
 |-- project_presentation.pptx     # Business insights presentation for stakeholders
 ```
