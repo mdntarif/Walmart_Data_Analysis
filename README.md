@@ -101,3 +101,10 @@ Document the process, and share the project on GitHub with all resources.
 - **Data Source**: [Kaggle’s Walmart Sales Dataset](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
 - **Inspiration**: Walmart’s case studies on sales and supply chain optimization.
 
+
+
+---
+
+For questions or feedback, please contact: mdtarif.chat@gmail.com
+
+Enjoy exploring the project!
