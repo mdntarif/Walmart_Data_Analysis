@@ -10,12 +10,6 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ---
 
-## Project Presentation
-Discover the comprehensive project presentation summarizing key insights and methodologies.  
-- [View Project Presentation]()
-
----
-
 ## Requirements
 ### Tools and Technologies
 - **Python**: Version 3.8+
